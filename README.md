@@ -72,8 +72,8 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 ## STM 32 CUBE PROGRAM :
 ```
-Developed By:R.Kavi Keerthana
-Ref No:212222100022
+Developed By: Keerthi Vasan A
+Ref No: 212222240048
 ```
 ```
 #include "main.h"
